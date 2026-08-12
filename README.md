@@ -10,8 +10,8 @@ short, direct, and built around actually doing the exercises.
 
 ## Contents
 
+- [Introduction](introduction/)
 - [Week 1](week-01/)
-- [Week 2](week-02/)
 
 *More added as they are written.*
 

@@ -119,6 +119,6 @@ If you see that, your setup works and you are ready to start.
 
 <div align="center">
 
-**Next:** [Week 2](../week-02/)
+**Next:** [Week 1](../week-01/)
 
 </div>
