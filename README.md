@@ -10,8 +10,8 @@ short, direct, and built around actually doing the exercises.
 
 ## Contents
 
-**Foundations**
-- [01 - Variables and types](01-variables/)
+- [Week 1](week-01/)
+- [Week 2](week-02/)
 
 *More added as they are written.*
 
