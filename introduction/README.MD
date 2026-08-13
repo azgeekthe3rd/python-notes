@@ -81,7 +81,7 @@ python3 --version
 On Windows, use `python --version` instead. You should see a version number printed back.
 
 > [!WARNING]
-> If you used the graphical installer on Windows, make sure you ticked **Add Python to PATH**. Missing it is the single most common reason the command is not recognised afterwards.
+> If you used the graphical installer on Windows, make sure you ticked Add Python to PATH. Missing it is the single most common reason the command is not recognised afterwards.Also note that the Windows command above installs one specific version. By the time you read this a newer release may exist, so check python.org/downloads and install the current version instead.
 
 ### 3. Install an editor
 
@@ -122,3 +122,7 @@ If you see that, your setup works and you are ready to start.
 **Next:** [Week 1](../week-01/)
 
 </div>
+
+
+> [!TIP]
+> Try not to open the lab solutions until you have finished, and then only to compare your approach with mine. Everything a lab needs is in the lessons themselves — if you are stuck, go back to the lesson covering that part and read it again.
