@@ -8,11 +8,11 @@
 
 | | Lesson | Covers |
 |---|--------|--------|
-| 01 | [Variables and naming](build-01.md) | Data types, naming rules, your first variable |
-| 02 | [Strings and string methods](build-02.md) | Text, methods, chaining |
-| 03 | [F-strings and whitespace](build-03.md) | Formatting, escapes, stripping |
-| 04 | [Numbers and maths](build-04.md) | Operators, floats, constants |
-| 05 | [Comments](build-05.md) | Writing notes, and the week put together |
+| 01 | [Variables and naming](build-01/build-01.md) | Data types, naming rules, your first variable |
+| 02 | [Strings and string methods](build-02/build-02.md) | Text, methods, chaining |
+| 03 | [F-strings and whitespace](build-03/build-03.md) | Formatting, escapes, stripping |
+| 04 | [Numbers and maths](build-04/build-04.md) | Operators, floats, constants |
+| 05 | [Comments](build-05/build-05.md) | Writing notes, and the week put together |
 
 Each lesson has a matching `.py` file. Read the markdown, then run the code and change it.
 
@@ -27,6 +27,7 @@ python build-01.py
 **Previous:** [Introduction](../introduction/) · **Next:** [Week 2](../week-02/)
 
 </div>
+
 ```bash
 python build-01.py
 ```
