@@ -34,14 +34,6 @@ python build-01.py
 
 ---
 
-<div align="center">
-
-**Previous:** [Introduction](../introduction/) · **Next:** [Week 2](../week-02/)
-
-</div>
-
----
-
 ## Lab
 
 [Week 1 lab](lab/lab.md) — five tasks using everything above.

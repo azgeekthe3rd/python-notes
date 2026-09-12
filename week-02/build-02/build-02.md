@@ -1,7 +1,7 @@
 # Build 02 — Modifying lists
 
 ## Overwriting elements in a list
-Say you have a list full of elements. You want to replace a value within the list. You can simply do the following:
+Say you have a list full of elements and you want to replace a value within it. You can simply do the following:
 
 ```python
 tech_accessories = ['USB Cable', 'Headphones', 'Mouse Pad', 'Power Bank']
@@ -44,10 +44,10 @@ $ python3 main.py
 ```
 
 > [!NOTE]
-> **.append()**, **.insert()**, **.sort()** and **.reverse()** all change the original list. They do not hand you a new one. sorted() is the exception — it leaves the original alone and gives you a new list back.
+> **.append()**, **.insert()**, **.sort()** and **.reverse()** all change the original list. They do not hand you a new one. sorted() is the exception, it leaves the original alone and gives you a new list back.
 
 ## Inserting elements to a list
-As I've mentioned before inserting lets you pick and choose where you want your new element added. **If you notice from the previous example, the new element we appended gets added to the end of the list.**
+As I've mentioned before, inserting lets you pick and choose where you want your new element added. **If you notice from the previous example, the new element we appended was added to the end of the list.**
 
 
 ```python

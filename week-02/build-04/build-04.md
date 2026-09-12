@@ -1,6 +1,6 @@
 # Build 04 — Organizing lists
 
-Keeping your lists organized is important for many reasons. You don’t want your code breaking later. Messy lists can lead to wrong indexes, unexpected values, and bugs that are hard to track. Keeping your list organized also helps you find things more easily. If you want to sort a list permanently you can use the `.sort()` method. It sorts your list in an alphabetical order.
+Keeping your lists organized is important for many reasons. You don’t want your code breaking later. Messy lists can lead to wrong indexes, unexpected values, and bugs that are hard to track. Keeping your list organized also helps you find things more easily. If you want to sort a list permanently, you can use the `.sort()` method. It sorts your list in alphabetical order.
 
 
 ```python
@@ -18,9 +18,10 @@ $ python3 main.py
 ```
 
 > [!NOTE]
-> Sorting isn't purely alphabetical. Capitals sort before lowercase letters, because Python compares character codes.
+> Sorting isn’t purely alphabetical. Capital letters sort before lowercase letters because Python compares character codes.
 
 Now, if you want the list to be sorted in reverse alphabetical order, you can set the `reverse` argument to `True`. Here is a clear example:
+
 
 ```python
 travel_essentials = ['Passport', 'Boarding Pass', 'Travel Pillow', 'Water Bottle', 'Phone Charger']
@@ -51,7 +52,7 @@ print("Here is the original list again: ")
 print(travel_essentials)
 ```
 
-Here is what the output is going to look like. As you can see the list isn't sorted permanently:
+Here is what the output is going to look like. As you can see, the list isn’t sorted permanently:
 ```bash
 $ python3 main.py
 Here is the original list: 
@@ -63,10 +64,10 @@ Here is the original list again:
 ```
 
 > [!NOTE]
-> A couple steps back I've shown you how you can reverse the order of a list. However, if you simply want to flip the list backwards without sorting it, you can use the `.reverse()` method. It's explained below, but you must understand the difference between the two to use them effectively.
+> A couple of steps back, I showed you how you can reverse the order of a list. However, if you simply want to flip the list backwards without sorting it, you can use the `.reverse()` method. It’s explained below, but you must understand the difference between the two to use them effectively.
 
 ## Printing a list in reverse order
-Now as I've mentioned in the previous note, if you want to essentially reverse the order of the current list you must apply the `.reverse()` method. Here is a good example showing you how it works:
+Now, as I mentioned in the previous note, if you want to reverse the order of the current list, you must apply the `.reverse()` method. Here is a good example showing how it works:
 
 
 ```python
