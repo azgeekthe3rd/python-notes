@@ -28,10 +28,6 @@ python build-01.py
 
 </div>
 
-```bash
-python build-01.py
-```
-
 ---
 
 ## Lab
