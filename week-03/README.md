@@ -8,10 +8,10 @@
 
 | | Lesson | Covers |
 |---|--------|--------|
-| 01 | [Looping through lists](build-01.md) | `for` loops, f-strings in loops, indentation |
-| 02 | [range() and simple statistics](build-02.md) | `range()`, building lists, `max()`, `min()`, `sum()` |
-| 03 | [Slicing and copying lists](build-03.md) | Slices, negative slices, copying with `[:]` |
-| 04 | [Tuples](build-04.md) | Parentheses, immutability, looping, the single-element comma |
+| 01 | [Looping through lists](build-01/build-01.md) | `for` loops, f-strings in loops, indentation |
+| 02 | [range() and simple statistics](build-02/build-02.md) | `range()`, building lists, `max()`, `min()`, `sum()` |
+| 03 | [Slicing and copying lists](build-03/build-03.md) | Slices, negative slices, copying with `[:]` |
+| 04 | [Tuples](build-04/build-04.md) | Parentheses, immutability, looping, the single-element comma |
 
 Each lesson has a matching `.py` file. Read the markdown, then run the code and change it.
 
